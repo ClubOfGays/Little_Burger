@@ -21,4 +21,4 @@ Little_Burger
 ### 2、Interest
 * 自己感兴趣的小项目
 
-![Jiahui-Li](https://raw.githubusercontent.com/yourusername/yourrepository/master/images/photo.jpg)
+![Jiahui-Li](https://github.com/ClubOfGays/Little_Burger/blob/main/Images/dear.jpg)
